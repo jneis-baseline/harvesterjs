@@ -1,2 +1,2 @@
-# harvester-sandbox
-sandbox for harvester.js
+# harvester-hack
+sandbox for harvester.js code
